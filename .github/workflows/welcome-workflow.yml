@@ -6,9 +6,9 @@ permissions:
   pull-requests: write
 
 jobs:
-  test:
+  welcome:
     runs-on: ubuntu-latest
     steps:
         name: print
-        run: echo "hi"
+        - run: echo "hi"
       

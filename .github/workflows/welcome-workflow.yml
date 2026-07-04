@@ -7,8 +7,8 @@ permissions:
 
 jobs:
   test:
-  runs-on: ubuntu-latest
-  steps:
-      name: print
-      run: echo "hi"
+    runs-on: ubuntu-latest
+    steps:
+        name: print
+        run: echo "hi"
       

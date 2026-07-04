@@ -9,5 +9,4 @@ jobs:
   welcome:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Welcome!"
-      
+      - run: echo "Welcome!"      
